@@ -86,3 +86,4 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [bradabayor's Solution](https://github.com/bradabayor/rock-paper-scissors)
 - [HSaad's solution](https://github.com/HSaad/rock-paper-scissors) - [View in browser](https://hsaad.github.io/rock-paper-scissors/)
 - [jmurinello's solution](https://github.com/jmurinello/rock-scissors-paper)
+- [Yeffero's solution](https://github.com/Yeffero/rockpaperscissors)
